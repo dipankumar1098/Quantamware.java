@@ -1,4 +1,5 @@
-class Af{
+class Af
+{
 	public static void main(String []args){
 		int i;
 		System.out.print("Enter a number");
